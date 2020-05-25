@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="lib" path="E:/sqlite jars/sqlite-jdbc-3.7.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/sqlite jars/sqlite-jdbc-3.7.15-M1.jar"/>
+	<classpathentry kind="lib" path="E:/sqlite jars/sqlite-jdbc-3.7.15-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="E:/sqlite jars/sqlite-jdbc-3.7.15-SNAPSHOT-2.jar"/>
+	<classpathentry kind="lib" path="E:/sqlite jars/sqlite-jdbc-3.7.15-SNAPSHOT-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/sqlite jars/sqlite-jdbc4-3.8.2-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="E:/sqlite jars/rs2xml/rs2xml.jar"/>
+	<classpathentry kind="lib" path="E:/sqlite jars/javamail-1.4.5/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="E:/sqlite jars/javamail-1.4.5/lib/imap.jar"/>
+	<classpathentry kind="lib" path="E:/sqlite jars/javamail-1.4.5/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="E:/sqlite jars/javamail-1.4.5/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="E:/sqlite jars/javamail-1.4.5/lib/smtp.jar"/>
+	<classpathentry kind="lib" path="E:/sqlite jars/javamail-1.4.5/mail.jar"/>
+	<classpathentry kind="lib" path="E:/sqlite jars/jcalendar-0.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/somtech/Downloads/itextpdf-5.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/somtech/Downloads/JPanelSlider_Library_for_Java_Desktop_Program-master/JPanelSlider_Library_for_Java_Desktop_Program-master/Java API/JPanelSlider.jar"/>
+	<classpathentry kind="lib" path="C:/Users/somtech/Downloads/swingx/swingx/lib/forms-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/somtech/Downloads/swingx/swingx/lib/jdnc-jxcombobox.jar"/>
+	<classpathentry kind="lib" path="C:/Users/somtech/Downloads/swingx/swingx/lib/jga-0.7.2-cddl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/somtech/Downloads/swingx/swingx/lib/jlfgr-1_0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/somtech/Downloads/swingx/swingx/lib/looks-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/somtech/Desktop/jfreechart-1.0.19/jfreechart-1.0.19-demo.jar"/>
+	<classpathentry kind="lib" path="E:/sqlite jars/wep/webcam-capture-0.3.12.jar"/>
+	<classpathentry kind="lib" path="E:/sqlite jars/wep/libs/bridj-0.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/sqlite jars/wep/libs/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
